@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Dahezhiquan</em>. I am a Fullstack 'n' mobile developer... 
+    My name is <em>AAAAA-ALAN</em>. I am a Fullstack 'n' ACMER and Machine Learning student... 
   <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
     <br/> (<em>ex</em>)Fulltime student.
       <br/>
