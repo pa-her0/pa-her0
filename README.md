@@ -36,11 +36,10 @@
 
 <hr>
 
-
 <p align="center">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
-<img src="https://github-readme-stats.vercel.app/api?username=ALan_jie&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALan_jie&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=pa-her0&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa-her0&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
 
 
