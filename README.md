@@ -5,10 +5,11 @@
 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me:*** <br>
-- 我是一个热爱技术，热爱机器的小萌新！<br>
+- 我是一个**热爱技术，热爱机器的小萌新**<br>
 I’m a tech enthusiast and a machine lover, just a little newbie!<br>
-- 现在集中ACM（算法竞赛），机器学习方面的学习<br>
-Currently focused on algorithm studies and competitive programming
+- 现在**集中ACM（算法竞赛），机器学习方面**的学习<br>
+Currently focused on algorithm studies and competitive programming <br>
+- **喜欢硬件,想去参加 RobotMaster, 想去看雪山, 去自由的远方!**<br>
 
 
 
