@@ -1,71 +1,30 @@
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨! <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=""></h1>
-
-<br>
-
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!（The current content has been uploaded to the blog: whalefall.fun）
 
 <p align="center">
-  <samp>
-    My name is <em>AAAA_ALAN</em>. I am a sophomore ACM competitor, studying algorithms and machine learning (AI).
-    <br/> Enthusiast in exploring new and interesting areas of computer science.
-    <br/> I enjoy working with JavaScript, React, and React Native.
-    <br/> Always curious, eager to learn, and keen to help the community.
-  </samp>
-  <br/>
-  <br/>
-  <b>Life live</b>
-  <br/>
-  <br/>
-</p>
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <br><br>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt=""/> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" alt=""/>
-</p>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me:*** <br>
+- 我是一个热爱技术，热爱机器的小萌新！<br>
+I’m a tech enthusiast and a machine lover, just a little newbie!<br>
+- 现在集中ACM（算法竞赛），机器学习方面的学习<br>
+Currently focused on algorithm studies and competitive programming
 
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right" width="30%" alt=""/>
 
-> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me:***
 
-- <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">&nbsp;Pronouns: ***He/Him***
-- <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;Currently focused on algorithm studies and competitive programming
-- <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;Learning <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> and <img alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />!
-- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;Looking to collaborate in open-source projects `(newbie)` 🤝
-- <img src="https://media.giphy.com/media/1AgViXhq0ZzOZyYfHV/giphy.gif" width="30px">&nbsp;Seeking insights into cybersecurity!
-- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun Fact: I’m always ready to help if it's within my skills!
+## 链接🔗
+[博客](whalefall.fun) -- 这是我的博客链接<br>
+[blog](whalefall.fun) -- It is my blog
 
 <hr>
 
-<p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
-<img src="https://github-readme-stats.vercel.app/api?username=pa-her0&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa-her0&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
-</p>
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Github Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pa-her0&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-her0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<hr>
-
-
-<p align="center">
-  <i><b>Profile Visitor Count...</b></i><br>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt=""/><br>
-  <img src="https://profile-counter.glitch.me/ALan_jie/count.svg" alt=""/>
-</p>
-
-
-### How to reach me:
-
-<p align="center">
-  <a href="https://twitter.com/your_twitter_username">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" alt=""/>
-  </a>
-  <a href="https://www.instagram.com/your_instagram_username/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" alt=""/>
-  </a>
-  <a href="https://www.linkedin.com/in/your_linkedin_username/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" alt=""/>
-  </a>
-  <a href="mailto:jiely28@gmail.com">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" alt=""/>
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://proxy.dogxi.me/dogyyds/dogyyds/snake/snake-dark.svg?proxy-host=raw.githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://proxy.dogxi.me/dogyyds/dogyyds/snake/snake.svg?proxy-host=raw.githubusercontent.com">
+  <img alt="github contribution grid" src="https://proxy.dogxi.me/dogyyds/dogyyds/snake/snake.svg?proxy-host=raw.githubusercontent.com" width="100%">
+</picture>
