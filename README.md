@@ -14,8 +14,8 @@ Currently focused on algorithm studies and competitive programming <br>
 
 
 ## 链接🔗
-[博客](whalefall.fun) -- 这是我的博客链接<br>
-[blog](whalefall.fun) -- It is my blog
+[博客](https://whalefall.fun) -- 这是我的博客链接<br>
+[blog](https://whalefall.fun) -- It is my blog
 
 <hr>
 
