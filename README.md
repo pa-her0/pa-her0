@@ -20,8 +20,6 @@ Currently focused on algorithm studies and competitive programming <br>
 <hr>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pa-her0&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-her0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <picture>
