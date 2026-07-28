@@ -21,9 +21,4 @@ Currently focused on algorithm studies and competitive programming <br>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Github Stats
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://proxy.dogxi.me/dogyyds/dogyyds/snake/snake-dark.svg?proxy-host=raw.githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://proxy.dogxi.me/dogyyds/dogyyds/snake/snake.svg?proxy-host=raw.githubusercontent.com">
-  <img alt="github contribution grid" src="https://proxy.dogxi.me/dogyyds/dogyyds/snake/snake.svg?proxy-host=raw.githubusercontent.com" width="100%">
-</picture>
+ ![](profile-3d-contrib/profile-south-season-animate.svg)
